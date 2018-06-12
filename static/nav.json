@@ -1,0 +1,29 @@
+{
+  "paths": [
+    {"project": "首页", "path": "/"},
+    {"project": "整形项目", "path": "/Project","child":[
+      {"project":"眼部","path":"/Project/Eye"},
+      {"project":"鼻部","path":"/Project/Nose"},
+      {"project":"脂肪填充","path":"/Project/Padding"},
+      {"project":"面部轮廓","path":"/Project/FLunKuo"},
+      {"project":"面部提升","path":"/Project/FTi"},
+      {"project":"身体塑形","path":"/Project/Body"},
+      {"project":"微整形","path":"/Project/Small"},
+      {"project":"皮肤管理","path":"/Project/Skin"},
+      {"project":"女性私密","path":"/Project/SiMi"}
+    ]},
+    {"project": "听患者说", "path": "/Say"},
+    {"project": "最潮娱文", "path": "/News","child":[
+      {"project":"直播"}
+    ]},
+    {"project": "国际医生", "path": "/Doctor"},
+    {"project": "整形预算", "path": "/Pay"},
+    {"project": "柳荷小百科", "path": "/Baike"},
+    {"project": "关于柳荷", "path": "/About","child":[
+      {"project":"柳荷自白"},
+      {"project":"柳荷带你游韩国"}
+
+    ]}
+  ]
+}
+
